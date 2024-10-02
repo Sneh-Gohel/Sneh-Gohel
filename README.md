@@ -1,14 +1,14 @@
 # Hi there, I'm Sneh Gohel 👋
-### Passionate Software Engineer from India
+### Passionate Software Engineer (Full Stack Mobile Application Developer).
 
 ---
 
-I'm an enthusiastic software engineer who loves working on exciting projects. Currently, I'm working on an **Event Management Mobile Application** while continuously learning and growing in frontend development. I aim to create impactful and efficient solutions through technology.
+I'm an enthusiastic software engineer who loves working on exciting projects. Currently, I'm working on an **Bank Application** while continuously learning and growing in frontend development. I aim to create impactful and efficient solutions through technology.
 
 ---
 
 ### 🔭 What I'm Currently Doing:
-- 🌱 Exploring **Frontend Development** to improve my skills.
+- 🌱 Exploring **Frontend Development & Machine Learning** to improve my skills.
 - 🔍 Open to collaborate on interesting projects.
 - ⚡ Fun fact: I like to think I'm pretty funny! 😂😉
 
