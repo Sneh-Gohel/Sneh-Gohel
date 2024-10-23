@@ -1,5 +1,5 @@
 # Hi there, I'm Sneh Gohel 👋
-### Passionate Software Engineer (Full Stack Mobile Application Developer).
+### Passionate Software Engineer (Full Stack Mobile Application & Flutter Developer).
 
 ---
 
