@@ -3,7 +3,7 @@
 
 ---
 
-I'm an enthusiastic software engineer who loves working on exciting projects. Currently, I'm continuously learning and growing in frontend development. I aim to create impactful and efficient solutions through technology.
+I'm an enthusiastic software engineer who loves working on exciting projects. Currently, I'm continuously learning and growing in frontend development while developing clone of the Amazon website. I aim to create impactful and efficient solutions through technology.
 
 ---
 
